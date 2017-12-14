@@ -1,0 +1,1053 @@
+word Frequency analysis, company name and the date : cnn161107
+
+article Freq dict : 
+Trump 6
+Clinton 3
+Donald 3
+final 2
+campaign 2
+Poll 1
+leads 1
+8 1
+CNN 1
+Hillary 1
+neck-and-neck 1
+new 1
+national 1
+tracking 1
+poll 1
+Tuesday 1
+morning 1
+make 1
+pitches 1
+Emotions 1
+run 1
+high 1
+days 1
+7 1
+things 1
+watch 1
+election 1
+night 1
+Election 1
+2016 1
+
+content Freq dict : 
+Trump 104
+'s 100
+Clinton 78
+said 44
+campaign 27
+states 27
+election 27
+voters 25
+I 25
+would 24
+win 20
+like 18
+The 17
+race 16
+n't 16
+electoral 15
+Democrats 15
+poll 14
+presidential 14
+Obama 14
+one 14
+CNN 13
+Republican 13
+Florida 13
+also 13
+could 13
+points 12
+latest 12
+nominee 12
+among 12
+last 12
+It 12
+Pennsylvania 12
+Michigan 12
+much 11
+votes 11
+North 11
+likely 10
+week 10
+Tuesday 10
+But 10
+state 10
+'re 10
+going 10
+voting 10
+Carolina 10
+`` 10
+Donald 9
+candidates 9
+winning 9
+polls 9
+swing 9
+Election 9
+country 9
+leads 8
+lead 8
+two 8
+say 8
+women 8
+Friday 8
+President 8
+final 8
+New 8
+House 8
+know 8
+people 8
+even 8
+market 8
+Washington 7
+Hillary 7
+percentage 7
+president 7
+well 7
+margin 7
+new 7
+early 7
+face 7
+day 7
+White 7
+time 7
+get 7
+days 7
+back 7
+Latino 7
+trade 7
+Georgia 7
+markets 7
+Johnson 6
+whether 6
+error 6
+candidate 6
+still 6
+victory 6
+Hampshire 6
+voted 6
+Day 6
+political 6
+She 6
+We 6
+think 6
+In 6
+'ve 6
+Nevada 6
+He 6
+'' 6
+You 6
+Wall 6
+Street 6
+U.S. 6
+Party 5
+45 5
+take 5
+right 5
+Democratic 5
+including 5
+Republicans 5
+key 5
+point 5
+former 5
+data 5
+may 5
+recent 5
+start 5
+Barack 5
+predicted 5
+GOP 5
+270 5
+things 5
+America 5
+turn 5
+This 5
+polling 5
+past 5
+need 5
+Ohio 5
+A 5
+strategist 5
+hold 5
+three 5
+'ll 5
+long 5
+Mexican 5
+found 4
+Gary 4
+Stein 4
+viewed 4
+favorably 4
+unfavorably 4
+running 4
+Virginia 4
+showed 4
+3 4
+meanwhile 4
+advantage 4
+since 4
+headshot 4
+2016 4
+dramatic 4
+history 4
+nearly 4
+cast 4
+ballots 4
+many 4
+Monday 4
+crowd 4
+warning 4
+show 4
+question 4
+nation 4
+part 4
+They 4
+particularly 4
+push 4
+amid 4
+really 4
+seen 4
+every 4
+run 4
+surge 4
+blue 4
+path 4
+attacks 4
+emotions 4
+especially 4
+That 4
+feel 4
+Democrat 4
+shown 4
+David 4
+calm 4
+play 4
+And 4
+Arizona 4
+already 4
+wins 4
+support 4
+economy 4
+stocks 4
+big 4
+campaigning 4
+
+word Frequency analysis, company name and the date : cnn161109
+
+article Freq dict : 
+2016 2
+How 1
+Donald 1
+Trump 1
+12 1
+searched 1
+words 1
+historic 1
+US 1
+election 1
+CNN 1
+Student 1
+News 1
+November 1
+9 1
+
+content Freq dict : 
+Trump 38
+'s 29
+Clinton 24
+said 15
+word 13
+Republican 11
+campaign 11
+used 11
+Donald 10
+I 10
+Hillary 10
+words 9
+presidential 8
+also 8
+n't 8
+Americans 7
+speech 7
+one 7
+people 7
+candidate 7
+1 7
+CNN 6
+He 6
+would 6
+Democratic 6
+election 6
+talk 6
+spiked 6
+2016 6
+nasty 6
+victory 5
+could 5
+media 5
+But 5
+new 5
+National 5
+supporters 5
+nominee 5
+made 5
+even 5
+American 4
+polls 4
+US 4
+time 4
+still 4
+came 4
+FBI 4
+ground 4
+Obama 4
+The 4
+RNC 4
+political 4
+online 4
+means 4
+term 4
+social 4
+list 4
+glass 4
+describe 4
+image 4
+Sanders 4
+using 4
+bigot 4
+'re 4
+debate 4
+-- 4
+locker 4
+Student 4
+News 4
+every 3
+women 3
+movement 3
+day 3
+states 3
+did.He 3
+wrong 3
+rules 3
+government 3
+say 3
+race 3
+final 3
+New 3
+later 3
+voters 3
+many 3
+GOP 3
+since 3
+2008 3
+We 3
+deplorables 3
+describes 3
+users 3
+elections 3
+way 3
+ceiling 3
+popular 3
+woman 3
+Melania 3
+Twitter 3
+Ads 3
+info 3
+socialism 3
+oligarchy 3
+investigation 3
+today 3
+bad 3
+conversations 3
+room 3
+Washington 2
+pulled 2
+unprecedented 2
+fear 2
+future 2
+working 2
+pundits 2
+rhetoric 2
+insults 2
+almost 2
+late 2
+change 2
+field 2
+Republicans 2
+vote 2
+United 2
+period 2
+uncertainty 2
+allies 2
+foreign 2
+look 2
+powerful 2
+man 2
+world 2
+system 2
+early 2
+hours 2
+Still 2
+history 2
+month 2
+deeply 2
+emails 2
+tied 2
+looked 2
+suggested 2
+run 2
+essentially 2
+game 2
+Tuesday 2
+night 2
+strategist 2
+David 2
+Plouffe 2
+tweeted 2
+never 2
+anything 2
+tonight 2
+`` 2
+U.S. 2
+brought 2
+entire 2
+past 2
+staff 2
+Florida 2
+2012 2
+years 2
+voter 2
+registration 2
+advantage 2
+work 2
+So 2
+lot 2
+hands 2
+basket 2
+fact 2
+national 2
+top 2
+trumpery 2
+last 2
+name 2
+century 2
+In 2
+origin 2
+obscure 2
+light 2
+Searches 2
+end 2
+shared 2
+comes 2
+presumptive 2
+It 2
+following 2
+primary 2
+expression 2
+got 2
+searches 2
+June 2
+several 2
+gave 2
+become 2
+July 2
+trended 2
+
+word Frequency analysis, company name and the date : fox161107
+
+article Freq dict : 
+election 4
+make 4
+races 3
+North 3
+'s 3
+Trump 3
+The 2
+year 2
+Latinos 2
+voting 2
+voters 2
+across 2
+voter 2
+history 2
+Florida 2
+place 2
+early 2
+Latino 2
+In 2
+battleground 2
+Carolina 2
+2016 2
+close 2
+call 2
+counted 2
+Clinton 2
+GOP 2
+Hispanic 1
+surge 1
+shaking 1
+
+content Freq dict : 
+said 72
+voters 66
+election 61
+Trump 56
+state 56
+The 52
+vote 48
+presidential 44
+states 43
+Florida 42
+Republican 40
+Clinton 40
+percent 39
+Latino 38
+North 38
+Carolina 36
+ballots 36
+voter 34
+voting 33
+also 32
+early 31
+'s 29
+Senate 29
+could 28
+Democrats 28
+Democratic 27
+first 27
+2012 26
+race 26
+Puerto 26
+In 25
+votes 25
+cast 25
+campaign 25
+one 24
+two 24
+We 24
+would 23
+party 23
+may 22
+New 22
+year 21
+But 21
+told 20
+Latinos 20
+polls 20
+million 20
+Republicans 20
+Amish 20
+political 19
+U.S. 19
+get 19
+among 18
+country 18
+people 18
+Democrat 18
+Fox 17
+News 17
+polling 17
+many 17
+officials 17
+elections 17
+candidates 17
+key 16
+I 16
+like 16
+make 16
+County 16
+Tuesday 16
+House 16
+Nevada 15
+Donald 15
+nominee 15
+win 15
+close 15
+GOP 15
+law 15
+Sen. 15
+time 14
+president 14
+He 14
+ballot 14
+district 14
+years 14
+Soto 14
+see 14
+number 13
+battleground 13
+And 13
+last 13
+turnout 13
+State 13
+former 13
+issues 13
+This 13
+Pennsylvania 13
+say 12
+eligible 12
+registered 12
+expected 12
+even 12
+swing 12
+It 11
+Hispanics 11
+Hillary 11
+Hispanic 11
+voted 11
+day 11
+well 11
+Rican 11
+military 11
+students 11
+Election 10
+made 10
+points 10
+much 10
+reported 10
+n't 10
+fraud 10
+lead 10
+victory 10
+community 10
+Ricans 10
+Rep. 10
+University 10
+still 10
+share 10
+enough 10
+rally 10
+immigration 9
+home 9
+Day 9
+half 9
+2016 9
+point 9
+That 9
+population 9
+places 9
+attorney 9
+Angeles 9
+Washington 9
+elected 9
+Monday 9
+support 9
+family 9
+new 9
+America 9
+Maine 9
+Georgia 8
+candidate 8
+numbers 8
+four 8
+Obama 8
+change 8
+making 8
+2008 8
+came 8
+know 8
+able 8
+system 8
+week 8
+Department 8
+John 8
+Los 8
+Logan 8
+They 8
+top 8
+races 8
+today 8
+final 8
+Ohio 8
+Hampshire 8
+PAC 8
+record 7
+different 7
+Arizona 7
+percentage 7
+President 7
+registration 7
+electoral 7
+groups 7
+wants 7
+long 7
+though 7
+Virginia 7
+three 7
+place 7
+York 7
+another 7
+back 7
+2 7
+whether 7
+office 7
+history 7
+led 7
+whose 7
+governor 7
+general 7
+group 7
+hoping 7
+
+word Frequency analysis, company name and the date : fox161109
+
+article Freq dict : 
+Trump 4
+victory 3
+'s 3
+leaders 2
+presidential 2
+election 2
+Latino 2
+turnout 2
+World 1
+welcome 1
+mixed 1
+reactions 1
+Canadian 1
+immigration 1
+website 1
+crashes 1
+How 1
+two 1
+polls 1
+predicted 1
+surprise 1
+sparks 1
+protests 1
+vigils 1
+across 1
+U.S 1
+wins 1
+presidency 1
+overriding 1
+high 1
+
+content Freq dict : 
+Trump 59
+said 37
+election 27
+percent 23
+I 20
+voters 20
+presidential 18
+Latino 18
+Donald 17
+'s 17
+Latinos 17
+vote 16
+would 15
+Florida 15
+Clinton 14
+The 13
+state 13
+people 13
+polls 12
+U.S. 12
+Republican 12
+poll 12
+nominee 11
+Tuesday 11
+win 11
+We 11
+one 11
+Wednesday 9
+states 9
+electorate 9
+voted 9
+saying 8
+It 8
+going 8
+New 8
+get 7
+Some 7
+relations 7
+new 7
+president 7
+campaign 7
+victory 7
+political 7
+immigration 7
+polling 7
+saw 7
+expected 7
+GOP 7
+Masto 7
+Hillary 6
+also 6
+In 6
+told 6
+Republicans 6
+numbers 6
+white 6
+2012 6
+Fox 6
+ballots 6
+Cortez 6
+Senate 6
+voting 6
+Democratic 5
+early 5
+America 5
+world 5
+great 5
+... 5
+say 5
+candidate 5
+United 5
+leaders 5
+Canada 5
+night 5
+million 5
+showed 5
+Times 5
+Election 5
+Day 5
+among 5
+University 5
+California 5
+many 5
+York 5
+News 5
+support 5
+North 5
+Carolina 5
+Hispanic 5
+Nevada 5
+fraud 5
+voter 5
+took 4
+Washington 4
+real 4
+community 4
+two 4
+much 4
+That 4
+part 4
+including 4
+another 4
+Party 4
+country 4
+`` 4
+around 4
+Mayur 4
+enthusiasm 4
+exit 4
+Democrats 4
+race 4
+last 4
+according 4
+Romney 4
+outcome 4
+students 4
+first 4
+important 4
+votes 4
+casting 4
+turnout 4
+made 4
+Hispanics 4
+cast 4
+Heck 4
+Sen. 4
+Garza 4
+closing 4
+intimidation 4
+computer 4
+reports 4
+way 3
+things 3
+speech 3
+along 3
+well 3
+continue 3
+President 3
+Putin 3
+expressed 3
+hope 3
+work 3
+positions 3
+change 3
+respond 3
+plans 3
+others 3
+n't 3
+There 3
+Americans 3
+economist 3
+chapter 3
+could 3
+however 3
+moving 3
+close 3
+2016 3
+results 3
+held 3
+lead 3
+tracking 3
+national 3
+final 3
+Democrat 3
+helped 3
+He 3
+number 3
+day 3
+turn 3
+gave 3
+six 3
+estate 3
+mogul 3
+former 3
+Obama 3
+walking 3
+School 3
+group 3
+11 3
+Jersey 3
+turned 3
+battleground 3
+like 3
+large 3
+went 3
+supported 3
+big 3
+27 3
+hardline 3
+tough 3
+party 3
+interview 3
+National 3
+Committee 3
+Aguirre 3
+Ferre 3
+director 3
+speaks 3
+became 3
+retiring 3
+
+sentimental analysis, company name and the date : cnn161107
+
+article name : Poll: Clinton leads Trump by 8 result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : (CNN)Hillary Clinton and Donald Trump are neck-and-neck in a new national tracking poll out Tuesday morning. result : ('pos', 0.6)
+content analysis result : ('neg', 1.0)
+
+article name : Clinton, Trump make final pitches result : ('neg', 1.0)
+content analysis result : ('pos', 1.0)
+
+article name : Emotions run high in final days of the campaign result : ('neg', 1.0)
+content analysis result : ('pos', 1.0)
+
+article name : 7 things to watch for on election night result : ('neg', 0.8)
+content analysis result : ('neg', 0.6)
+
+article name : Election 2016: Polls continue to show tough map for Donald Trump result : ('neg', 1.0)
+content analysis result : ('neg', 1.0)
+
+article name : Wall Street welcomes Trump with a bang result : ('neg', 0.8)
+content analysis result : ('neg', 0.6)
+
+article name : Donald Trump reflects on his bid: 'It's been some campaign' result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+sentimental analysis, company name and the date : cnn161109
+
+article name : How Donald Trump won result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : 12 most searched words during historic US election 2016 result : ('pos', 1.0)
+content analysis result : ('neg', 1.0)
+
+article name : CNN Student News - November 9, 2016 result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+sentimental analysis, company name and the date : fox161107
+
+article name : The year of the Latinos: Hispanic voting surge shaking up presidential election result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Long lines, technical glitches greet some voters across the country result : ('pos', 0.6)
+content analysis result : ('neg', 1.0)
+
+article name : LA county elections boss criticized amid voter fraud claims result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Meet Darren Soto, poised to make history as first Florida Puerto Rican in Congress result : ('pos', 1.0)
+content analysis result : ('pos', 1.0)
+
+article name : Latinos still far from the White House but could make history on down-ballot races this year result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : The Halftime Report endorsementThe polling place on the North Fork of Short Creek in Ohio County, W.Va. was a fine place to cast a ballot. It was a 100-year-old Methodist church with groaning floorboards that announced your arrival for the poll workers before you were halfway across the floor. result : ('pos', 1.0)
+content analysis result : ('pos', 0.6)
+
+article name : What to watch for in Tuesday's tight race for Senate control result : ('pos', 1.0)
+content analysis result : ('neg', 1.0)
+
+article name : 'Sleeping Giant' awake and roaring ? early voting shows high Latino turnout result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : In battleground North Carolina, 2016 races too close to call. result : ('neg', 1.0)
+content analysis result : ('pos', 1.0)
+
+article name : Dying Florida man's family fights to get vote counted result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Trump, Clinton make final pitches as early votes counted in tiny New Hampshire towns result : ('neg', 1.0)
+content analysis result : ('neg', 1.0)
+
+article name : Krauthammer on Trump's role in the GOP if he loses election: 'He will be the power broker' result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Trump wins presidency, defeats Clinton in historic election upset result : ('pos', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Maine Gov. LePage accused of voter intimidation result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : Organizers of Latino get-out-the-vote wait to see if their efforts paid off result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : Super PAC hoping Amish voters will make election day a GOP barn raiser result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : In battleground North Carolina, 2016 races too close to call result : ('neg', 1.0)
+content analysis result : ('pos', 1.0)
+
+sentimental analysis, company name and the date : fox161109
+
+article name : World leaders welcome Trump presidential victory with mixed reactions result : ('pos', 0.6)
+content analysis result : ('pos', 1.0)
+
+article name : Canadian immigration website crashes during election result : ('neg', 1.0)
+content analysis result : ('neg', 1.0)
+
+article name : How two polls predicted Trump's surprise victory result : ('neg', 1.0)
+content analysis result : ('pos', 0.6)
+
+article name : Trump's presidential victory sparks protests and vigils across the U.S. result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Trump wins presidency, overriding high Latino turnout fueled by effort to defeat him result : ('neg', 0.8)
+content analysis result : ('pos', 1.0)
+
+article name : Nevada's Cortez Masto becomes 1st Latina elected to the U.S. Senate result : ('neg', 0.8)
+content analysis result : ('neg', 1.0)
+
+article name : Latino leaders see complicated picture in Hispanic election turnout and support result : ('pos', 0.6)
+content analysis result : ('pos', 0.6)
+
+article name : Voting glitches, long lines and machine break downs ? but no major problems result : ('neg', 1.0)
+content analysis result : ('neg', 1.0)
+
+cnn trump word sentiment analysis 161107: ('neg', 1.0)
+
+cnn trump word sentiment analysis 161109: ('pos', 0.8)
+
+fox trump word sentiment analysis 161107: ('neg', 1.0)
+
+fox trump word sentiment analysis 161109: ('neg', 1.0)
+
